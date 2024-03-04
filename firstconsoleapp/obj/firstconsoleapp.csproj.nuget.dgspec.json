@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Documents\\sessami-internship\\dotnet_course\\firstconsoleapp\\firstconsoleapp.csproj": {}
+    "E:\\projects\\sessami-internship\\dotnet_course\\firstconsoleapp\\firstconsoleapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Documents\\sessami-internship\\dotnet_course\\firstconsoleapp\\firstconsoleapp.csproj": {
+    "E:\\projects\\sessami-internship\\dotnet_course\\firstconsoleapp\\firstconsoleapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Documents\\sessami-internship\\dotnet_course\\firstconsoleapp\\firstconsoleapp.csproj",
+        "projectUniqueName": "E:\\projects\\sessami-internship\\dotnet_course\\firstconsoleapp\\firstconsoleapp.csproj",
         "projectName": "firstconsoleapp",
-        "projectPath": "C:\\Users\\ACER\\Documents\\sessami-internship\\dotnet_course\\firstconsoleapp\\firstconsoleapp.csproj",
+        "projectPath": "E:\\projects\\sessami-internship\\dotnet_course\\firstconsoleapp\\firstconsoleapp.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Documents\\sessami-internship\\dotnet_course\\firstconsoleapp\\obj\\",
+        "outputPath": "E:\\projects\\sessami-internship\\dotnet_course\\firstconsoleapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
